@@ -6,11 +6,11 @@ Project Flow
 
     2. Exploratory Data Analysis
 
-      2.1. Numeric Datas
+      2.1. Numeric Data
 
-      2.2. Ordinal Datas
+      2.2. Ordinal Data
 
-      2.3. Nominal Datas
+      2.3. Nominal Data
 
     3. Outlier Detection
 
